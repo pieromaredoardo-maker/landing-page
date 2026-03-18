@@ -1,0 +1,1 @@
+{\n  "name": "landing-page",\n  "version": "1.0.0",\n  "main": "index.js",\n  "scripts": {\n    "start": "vite serve",\n    "build": "vite build"\n  },\n  "devDependencies": {\n    "framer-motion": "latest",\n    "vite": "latest",\n    "@vitejs/plugin-react": "latest"\n  }\n}
